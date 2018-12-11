@@ -1,0 +1,1 @@
+Simple test to see if environment variables were being passed in correctly with lambda. Keeping it around since it was mildly useful.
